@@ -1,12 +1,9 @@
 # Hi there, I'm Rujal Sharma Rajopadhyaya! 👋
+
 <p align="left">
-  <!-- Stable Alternative GitHub Streak Stats Card -->
-  <img src="https://demolab.com" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RujalRazz" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <!-- Stable Alternative GitHub Profile Stats Card -->
-  <img src="https://vercel.app" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RujalRazz" alt="GitHub Stats" />
 </p>
-
-
